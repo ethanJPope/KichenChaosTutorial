@@ -9,6 +9,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/Temp
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -51,6 +52,24 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+*.meta
+*.anim
+*.png
+*.mat
+*.md
+*.uss
+*.cs
+*.dylib
+*.bin
+*.asmdef
+*.json
+*.g
+*.asset
+*.xml
+*.signature
+*.release
+*.svg
+*.fbx
 
 # Unity3D generated file on crash reports
 sysinfo.txt
