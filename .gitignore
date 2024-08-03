@@ -49,22 +49,17 @@ ExportedObj/
 *.VC.db
 
 # Unity3D generated meta files
-*.pidb.meta
-*.pdb.meta
-*.mdb.meta
 *.meta
 *.anim
 *.png
 *.mat
 *.md
 *.uss
-*.cs
 *.dylib
 *.bin
 *.asmdef
 *.json
 *.g
-*.asset
 *.xml
 *.signature
 *.release
